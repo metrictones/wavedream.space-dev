@@ -28,10 +28,8 @@
 
 
 </div>
-
-<!-- //Styling  -->
+<!-- Styling  -->
 <style lang="postcss">
-
 #orb-container {
     width: 100vw;
     height: 100vh;
@@ -44,7 +42,6 @@
     justify-content: center;
     align-items: center;
 }
-
 .logo {
     -moz-user-select: -moz-none;
     -khtml-user-select: none;
@@ -52,9 +49,6 @@
     -o-user-select: none;
     user-select: none;
 }
-
-
-
 h1 {
 font-family: "Jura", sans-serif;
   background: linear-gradient(to left top, rgb(134, 239, 172), rgb(59, 130, 246), rgb(250, 51, 234));
